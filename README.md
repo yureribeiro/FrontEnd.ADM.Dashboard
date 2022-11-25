@@ -1,4 +1,29 @@
-# Getting Started with Create React App
+# Projeto front-end Dashboard (painel de controle) 
+
+deploy: https://dash-board-green.vercel.app/
+
+Side Bar Menu, Material UI e Data Grid
+
+![dashbooard desktop](https://user-images.githubusercontent.com/114265734/204011752-58524d64-d321-4c28-921d-d9e5a145b2ac.png)
+
+![dashbooard desktop 2](https://user-images.githubusercontent.com/114265734/204011775-e6796d22-6fe3-4700-8b6a-7f111f4bf517.png)
+
+Graficos geofráficos, de linhas, pizza etc...
+
+![dashbooard desktop 3](https://user-images.githubusercontent.com/114265734/204011791-b63d8054-e721-41d8-81bd-b96723a3dd2e.png)
+
+Light e Dark Mode
+
+![dashbooard desktop 1](https://user-images.githubusercontent.com/114265734/204011899-bfe0cce4-3ed5-4903-b379-c579f4074a71.png)
+
+### O que usamos:
+
+ React e Tailwind;
+ Data Grid  material UI;
+ light e dark Mode;
+ Gráficos;
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
