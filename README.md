@@ -1,4 +1,4 @@
-# Projeto front-end Dashboard (painel de controle) 
+# Projeto (guiado) front-end Dashboard (painel de controle) 
 
 deploy: https://dash-board-green.vercel.app/
 
