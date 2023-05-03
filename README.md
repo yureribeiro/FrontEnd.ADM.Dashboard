@@ -1,6 +1,6 @@
 # Projeto (guiado) front-end Dashboard (painel de controle) 
 
-deploy: https://dash-board-green.vercel.app/
+visite: https://dash-board-green.vercel.app/
 
 Side Bar Menu, Material UI e Data Grid
 
